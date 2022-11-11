@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titulo": "Nupec croquetas para Perros, Adulto Raza Grande, con Omega 3 y 6, presentación de 8 kg.",
+        "img": "./assets/img/NUPEC1.jpg",
+        "alt": "croqueta Nupec Aulto pequeño",
+        "precio": 1200,
+        "descripcion": "Nutrición Canina Científica Contiene omega 3, 6 y vitaminas.Aporta balance de aminoácidos.Para perros adultos, razas pequeñas.5 KG."
+    },
+    {
+        "id": 2,
+        "titulo": "Nupec croquetas para Perros, Adulto Razas pequeñas, con Omega 3 y 6, presentación de 8 kg.",
+        "img": "./assets/img/nupec2.jpg",
+        "alt": "croqueta Nupec Aulto pequeño",
+        "precio": 760,
+        "descripcion": "Nutrición Canina Científica Contiene omega 3, 6 y vitaminas.Aporta balance de aminoácidos.Para perros adultos, razas pequeñas.5 KG."
+    },
+    {
+        "id": 3,
+        "titulo": "Nupec croquetas para Perros, Adulto Razas pequeñas, con Omega 3 y 6, presentación de 8 kg.",
+        "img": "./assets/img/NUPEC1.jpg",
+        "alt": "croqueta Nupec Aulto pequeño",
+        "precio": 2000,
+        "descripcion": "Nutrición Canina Científica Contiene omega 3, 6 y vitaminas.Aporta balance de aminoácidos.Para perros adultos, razas pequeñas.5 KG."
+    },
+    {
+        "id": 4,
+        "titulo": "Nupec croquetas para Perros, Adulto Razas pequeñas, con Omega 3 y 6, presentación de 8 kg.",
+        "img": "./assets/img/NUPEC1.jpg",
+        "alt": "croqueta Nupec Aulto pequeño",
+        "precio": 1700,
+        "descripcion": "Nutrición Canina Científica Contiene omega 3, 6 y vitaminas.Aporta balance de aminoácidos.Para perros adultos, razas pequeñas.5 KG."
+    },
+    {
+        "id": 5,
+        "titulo": "Nupec croquetas para Perros, Adulto Razas pequeñas, con Omega 3 y 6, presentación de 8 kg.",
+        "img": "./assets/img/NUPEC1.jpg",
+        "alt": "croqueta Nupec Aulto pequeño",
+        "precio": 890,
+        "descripcion": "Nutrición Canina Científica Contiene omega 3, 6 y vitaminas.Aporta balance de aminoácidos.Para perros adultos, razas pequeñas.5 KG."
+    },
+    {
+        "id": 6,
+        "titulo": "Nupec croquetas para Perros, Adulto Razas pequeñas, con Omega 3 y 6, presentación de 8 kg.",
+        "img": "./assets/img/NUPEC1.jpg",
+        "alt": "croqueta Nupec Aulto pequeño",
+        "precio": 1580,
+        "descripcion": "Nutrición Canina Científica Contiene omega 3, 6 y vitaminas.Aporta balance de aminoácidos.Para perros adultos, razas pequeñas.5 KG."
+    }
+]
